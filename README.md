@@ -4,9 +4,9 @@
 Just some tips and quick reminders from advance
 React concepts to improve my skills with the Library.
 
-## initial Date sept/16
-
-This is the Begining, i think i'll improve my self, sepcially:
+Topics to improve and learn:
 
 1. Testing React Components
 2. Advance Render habilities and clearity from that topics.
+
+## initial Date sept/16
