@@ -9,4 +9,4 @@ Topics to improve and learn:
 1. Testing React Components
 2. Advance Render habilities and clearity from that topics.
 
-## initial Date sept/16
+### initial Date sept/16
