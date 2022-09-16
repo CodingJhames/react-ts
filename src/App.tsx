@@ -1,5 +1,8 @@
 import { useState } from 'react'
 import { Counter } from './components/Counter'
+import { Timer } from './components/Timer'
+
+import { TimerParent } from './components/TimerParent'
 import { User } from './components/User'
 
 
@@ -13,6 +16,12 @@ function App() {
       <hr/>
       <Counter />
       <User/>
+
+      <h2>useEffect - useRef</h2>
+      <hr/>
+
+      <TimerParent />
+      
     </>
   )
 }

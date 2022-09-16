@@ -17,8 +17,6 @@ export const User = () => {
         } )
     }
     
-    
-    
     return (
     <div className='mt-5'>
         <h3>User: useState</h3>
