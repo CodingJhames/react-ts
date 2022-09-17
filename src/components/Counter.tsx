@@ -29,7 +29,7 @@ export const Counter = () => {
 
         <button 
         onClick={ () => setCounter(0) }
-        className='btn btn-outline-primary mt-2'>
+        className='btn btn-outline-danger mt-2'>
             Reset
         </button>
 

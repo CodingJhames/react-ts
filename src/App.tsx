@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Counter } from './components/Counter'
+import { CounterReducer } from './components/CounterReducer'
 import { Timer } from './components/Timer'
 
 import { TimerParent } from './components/TimerParent'
@@ -22,6 +23,10 @@ function App() {
 
       <TimerParent />
       
+      <h2>useReducer</h2>
+      <hr/>
+      <CounterReducer />
+
     </>
   )
 }
