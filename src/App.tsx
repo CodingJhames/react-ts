@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { Counter } from './components/Counter'
 import { CounterReducer } from './components/CounterReducer'
+import { Form } from './components/Form'
 import { Timer } from './components/Timer'
 
 import { TimerParent } from './components/TimerParent'
@@ -27,6 +28,25 @@ function App() {
       <hr/>
       <CounterReducer />
 
+      <br/>
+
+      <h2>Custom Hooks</h2>
+      <hr/>
+      <Form />
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
     </>
   )
 }
